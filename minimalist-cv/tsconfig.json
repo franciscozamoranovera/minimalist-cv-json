@@ -1,0 +1,12 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@cv":["./cv"],
+      "@/*":["src/*"]
+    }
+    /* (Revisar, no funcionó) added compiler options nos ayuda a entender desde donde vienen los componentes. Es un alias.  */
+  }
+
+}

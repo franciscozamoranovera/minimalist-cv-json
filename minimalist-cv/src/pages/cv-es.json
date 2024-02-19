@@ -1,0 +1,250 @@
+{
+    "basics": {
+      "name": "Francisco Zamorano",
+      "label": "Ing. Comercial & Estudiante Full Stack Dev",
+      "image": "https://media.licdn.com/dms/image/C4E03AQGC7XapB8r1VA/profile-displayphoto-shrink_400_400/0/1559683252975?e=1713398400&v=beta&t=SeLVny53zwHnXVSxbkW2YAaytmTN4yRS6BfrviB14GY",
+      "email": "franciscozamoranovera@gmail.com",
+      "phone": "+56951083930",
+      "url": "https://johndoe.com",
+      "summary": "+3 años de experiencia en emprendimientos y start-ups en áreas comerciales, entendiendome de forma íntegra con el resto de las áreas. Me considero un fanatico de aprender cosas nuevas, creo que es más que fundamental y un pilar importante para el crecimiento. Hoy estoy dando una especie de vuelco al mundo de la programación volviendo a ser estudiante en esta oportunidad, como Full Stack Dev. ",
+      "location": {
+        "address": "Juan Williams Noon 1455",
+        "postalCode": "CA 94115",
+        "city": "Providencia",
+        "countryCode": "CL",
+        "region": "Santiago de Chile"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "Francisco",
+        "url": "https://www.linkedin.com/in/francisco-javier-zamorano-vera-434913a1/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Francisco",
+        "url": "https://github.com/franciscozamoranovera"
+      },
+      {
+        "network": "X",
+        "username": "Francisco",
+        "url": "https://twitter.com/Home"
+      }
+    ]
+    },
+    "experience": [{
+      "name": "eDarkstore",
+      "position": "Supervisor de Operaciones - Vitacura",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2024-06-06",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Qiero App",
+      "position": "Product Manager",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    }, 
+    {
+      "name": "Alimentos Almendral",
+      "position": "Product Manager",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }, {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }, {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }, {
+      "name": "Git",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }, {
+      "name": "GitHub",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }, {
+      "name": "React",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },{
+      "name": "Node.js",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }, {
+      "name": "Postgresql",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": " Plantila CV Minimalista",
+      "isActive":true,
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Crea tu CV con esta plantilla minimalista, usando un JSON ",
+      "highlights": [
+        "HTML","CSS","ASTRO"
+      ],
+      "url": "https://project.com/"
+    },{
+      "name": "Project 2",
+      "isActive":true,
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description en 3 líneas del proyecto 2 como resumen",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    },{
+      "name": "Project 3",
+      "isActive":true,
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    },{
+      "name": "Project 4",
+      "isActive":true,
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    },{
+      "name": "Project 5",
+      "isActive":true,
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    },{
+      "name": "Project 6",
+      "isActive":true,
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
